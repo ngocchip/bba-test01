@@ -23,5 +23,3 @@ Chạy lệnh ở terminal
 
 
 
-
-

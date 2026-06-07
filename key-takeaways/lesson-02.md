@@ -63,5 +63,3 @@
 - Vòng lặp: for (i) 
 - Format code: option + shift + F hoặc chuột phải vào vùng trống, chọn Format
 
-
-

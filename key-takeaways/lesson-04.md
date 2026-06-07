@@ -170,7 +170,3 @@ numbers.sort((a, b) => b - a);
 console.log(numbers);
 ```
 
-
-
-
-
