@@ -1,4 +1,4 @@
-// Bài 2:
+// Bài 2
 let powerUp = 'mushroom';
 let effect = '';
 
